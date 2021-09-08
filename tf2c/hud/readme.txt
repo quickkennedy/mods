@@ -1,0 +1,1 @@
+a hud i made a while back for tf2c that uses stuff from other huds. primarily a file from "manninterface" and a few files from "hypnotize hud".
