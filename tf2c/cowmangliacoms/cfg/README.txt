@@ -1,3 +1,4 @@
+(written by cowmanglia, still included in this port)
 # ComangliaComs
 Max Performance config for most decent PCs
 
