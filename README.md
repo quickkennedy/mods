@@ -13,4 +13,4 @@ tf2c (team fortress 2 classic)
 
 ql (quake live)
   
-  mod install location: `[steam library/common/Quake Live/baseq3`
+  mod install location: `[steam library/common/Quake Live/baseq3/`
