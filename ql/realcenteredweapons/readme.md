@@ -1,0 +1,1 @@
+uses weapon-specific commands to offset the on screen viewmodel on the y axis, making it centered. this WILL override your previous weapon-specific scripts, so add them to the back of each command using ";" to separate commands.

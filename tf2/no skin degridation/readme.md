@@ -1,0 +1,1 @@
+wear-b-gone removes all weapon degridation on decorated weapons (aka everything below factory new) by changing the scratch and blood textures that go on those qualities. doesnt work in casual or sv_pure 2 servers.
