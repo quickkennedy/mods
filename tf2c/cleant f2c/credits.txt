@@ -1,0 +1,7 @@
+thenoid - overheal particles
+jarateking - flat textures
+me - removed particles
+tf2c devs - live tf2 particles
+suspect - no smoke script port
+cowmanglia - config
+flewvar - flat props
