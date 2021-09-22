@@ -1,5 +1,5 @@
 # mods
-repository mostly for my mods/ports to tf2c and tf2, but i'll probably just post any mod i've made.
+repository originally for my mods/ports to tf2c and tf2, but now i'll probably just post any mod i've made or am working on.
 if you'd like to see one of my mods removed, my discord is JackBoi#1758. feel free to contact me either way about errors.
 
 ## game-specific information
