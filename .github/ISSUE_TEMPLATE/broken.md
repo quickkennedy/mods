@@ -1,6 +1,6 @@
 ---
 name: Broken
-about: for mods that are "broken"
+about: for mods that are broken
 title: ''
 labels: ''
 assignees: ''
