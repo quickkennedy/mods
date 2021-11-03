@@ -31,3 +31,10 @@ winscreen fix (it brokey????????)
 main menu (coming never lol cant be bothered)
 
 4 team arena shit lol
+
+<a>KNOWN ISSUES</a>
+====
+
+respawn text gets cut off
+
+civillian's button is in the top left
