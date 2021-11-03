@@ -4,3 +4,12 @@ bonkmaykr
 
 twig
 - helped with: tf2c/cleantf2c
+
+hypnotize
+- current maintainer of m0rehud
+
+jarateking
+- creator of cleantf2
+
+cowmanglia
+- creator of various configs
