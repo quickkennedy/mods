@@ -32,9 +32,13 @@ main menu (coming never lol cant be bothered)
 
 4 team arena shit lol
 
+4 team disquise menu
+
 <a>KNOWN ISSUES</a>
 ====
 
 respawn text gets cut off
 
 civillian's button is in the top left
+
+the coil gun displays a broken meter label (and i have no clue what change did it)
