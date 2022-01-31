@@ -5,8 +5,8 @@
 	"friction"	"0.8"
 	"dampening"	"0.0"
 
-	"stepleft"	" "
-	"stepright"	" "
+	"stepleft"	"SolidMetal.StepLeft"
+	"stepright"	"SolidMetal.StepLeft"
 	"bulletimpact"	""
 	"scraperough"	""
 	"scrapesmooth"	""
