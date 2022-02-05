@@ -1,0 +1,3 @@
+version 10
+- removed the custom impact particle that (ironically) removed impact particles. instead, i should be using the cleaner solution of putting it in the surfaceproperties
+- updated surfaceproperties to reflect that of pre-ban metal footsteps, the original surfaceproperties file that cleantf2+ made before it was banned
