@@ -1,1 +1,1 @@
-replaces stat clocks on strange decorated weapons with a blank model. SHOULD work in casual, but no guarentees.
+replaces contracker with blank model
