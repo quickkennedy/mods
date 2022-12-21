@@ -1,0 +1,1 @@
+compile with crowbar using half life 2 files. youll need the materials in the normal folder to go along with them, in case you want to actually SEE pyro.
