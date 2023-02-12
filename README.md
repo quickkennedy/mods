@@ -22,3 +22,11 @@ ql (quake live)
 q2 (quake 2)
 
   mod install location: `[quake 2 directory]/baseq2/`
+
+tf2-xbox (tf2 (orange box version) on xbox 360)
+
+  mod install location: override zip0
+  
+CPMA (challenge pro mode arena)
+
+  mod install location: `[quake 3 directory]/baseq3/`
