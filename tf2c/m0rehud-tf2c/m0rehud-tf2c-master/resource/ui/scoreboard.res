@@ -1117,12 +1117,7 @@
 			"fieldName"								"Invuln"
 			"visible"								"0"
 		}
-		"Teleports"
-		{
-			"ControlName"							"CExLabel"
-			"fieldName"								"Teleports"
-			"visible"								"0"
-		}
+		// here lies "Teleports", the CExLabel that once was.
 		"Headshots"
 		{
 			"ControlName"							"CExLabel"

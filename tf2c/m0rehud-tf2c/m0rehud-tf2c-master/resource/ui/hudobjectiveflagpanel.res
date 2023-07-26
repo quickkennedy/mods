@@ -26,8 +26,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueScore"
-		"xpos"										"cs-0.5-70"
-		"ypos"										"rs1-8"
+		"xpos"										"c-103" //tf2c math fix!!!
+		"ypos"										"r43" //tf2c math fix!!!
 		"zpos"										"8"
 		"wide"										"50"
 		"tall"										"35"
@@ -124,8 +124,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedScore"
-		"xpos"										"cs-0.5+70"
-		"ypos"										"rs1-8"
+		"xpos"										"c52" //tf2c math fix!!!
+		"ypos"										"r43" //tf2c math fix!!!
 		"zpos"										"8"
 		"wide"										"50"
 		"tall"										"35"
@@ -213,12 +213,12 @@
 
 	"PlayingTo"
 	{
-		"ControlName"								"CExLabel"
+		"ControlName"								"Label" //tf2c does NOT have CExLabels
 		"fieldName"									"PlayingTo"
 		"xpos"										"cs-0.5"
 		"ypos"										"rs1"
 		"zpos"										"4"
-		"wide"										"f0"
+		"wide"										"100"
 		"tall"										"10"
 		"visible"									"1"
 		"enabled"									"1"
