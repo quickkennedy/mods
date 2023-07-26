@@ -308,6 +308,274 @@
 
 		"pin_to_sibling"							"class_item_red_9"
 	}
+	
+	"class_item_yellow_1"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_1"
+		"xpos"										"-5"
+		"ypos"										"-2"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"Background"
+	}
+
+	"class_item_green_1"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_1"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_1"
+	}
+
+	"class_item_yellow_2"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_2"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_1"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_2"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_2"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_2"
+	}
+
+	"class_item_yellow_3"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_3"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_2"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_3"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_3"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_3"
+	}
+
+	"class_item_yellow_4"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_4"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_3"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_4"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_4"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_4"
+	}
+
+	"class_item_yellow_5"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_5"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_4"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_5"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_5"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_5"
+	}
+
+	"class_item_yellow_6"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_6"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_5"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_6"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_6"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_6"
+	}
+
+	"class_item_yellow_7"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_7"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_6"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_7"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_7"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_7"
+	}
+
+	"class_item_yellow_8"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_8"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_7"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_8"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_8"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_8"
+	}
+
+	"class_item_yellow_9"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_yellow_9"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"1"
+
+		"pin_to_sibling"							"class_item_yellow_8"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	}
+
+	"class_item_green_9"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"class_item_green_9"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"20"
+		"tall"										"50"
+		"visible"									"0"
+
+		"pin_to_sibling"							"class_item_yellow_9"
+	}
 
 	"NumberLabel1"
 	{
